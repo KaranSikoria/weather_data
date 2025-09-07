@@ -1,4 +1,4 @@
-# weather_data_etl_pipeline_with_dbt
+# weather_data
 Building a Weather Data ETL Pipeline with OpenWeatherMap API, dbt &amp; BigQuery.
 
 ## 📖 Project overview
