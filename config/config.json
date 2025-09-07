@@ -1,5 +1,5 @@
 {
-  "cities": ["Hamburg", "London", "Tokyo", "Paris", "Tunis"],
+  "cities": ["Hamburg", "London", "Tokyo", "Paris", "India"],
   "columns_to_ignore": [],
   "bucket_name": "weather-map-data-bucket"
 }
